@@ -1,0 +1,5 @@
+C:\TechnicalExp\websites\MVC-Sites\CreateXMLfile\CreateXMLfile\bin\Debug\CreateXMLfile.exe.config
+C:\TechnicalExp\websites\MVC-Sites\CreateXMLfile\CreateXMLfile\bin\Debug\CreateXMLfile.exe
+C:\TechnicalExp\websites\MVC-Sites\CreateXMLfile\CreateXMLfile\bin\Debug\CreateXMLfile.pdb
+C:\TechnicalExp\websites\MVC-Sites\CreateXMLfile\CreateXMLfile\obj\Debug\CreateXMLfile.exe
+C:\TechnicalExp\websites\MVC-Sites\CreateXMLfile\CreateXMLfile\obj\Debug\CreateXMLfile.pdb

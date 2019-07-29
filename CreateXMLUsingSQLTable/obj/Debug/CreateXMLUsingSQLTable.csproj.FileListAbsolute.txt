@@ -1,0 +1,5 @@
+C:\TechnicalExp\websites\MVC-Sites\CreateXMLfile\CreateXMLUsingSQLTable\bin\Debug\CreateXMLUsingSQLTable.exe
+C:\TechnicalExp\websites\MVC-Sites\CreateXMLfile\CreateXMLUsingSQLTable\bin\Debug\CreateXMLUsingSQLTable.exe.config
+C:\TechnicalExp\websites\MVC-Sites\CreateXMLfile\CreateXMLUsingSQLTable\obj\Debug\CreateXMLUsingSQLTable.exe
+C:\TechnicalExp\websites\MVC-Sites\CreateXMLfile\CreateXMLUsingSQLTable\obj\Debug\CreateXMLUsingSQLTable.pdb
+C:\TechnicalExp\websites\MVC-Sites\CreateXMLfile\CreateXMLUsingSQLTable\bin\Debug\CreateXMLUsingSQLTable.pdb
